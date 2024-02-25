@@ -20,7 +20,7 @@ A generic button alongside a text input.
 An input form demonstrating various types such as email, URL, and number.
 A form illustrating the use of the name attribute with text inputs for a city and state.
 
-##Usage
+## Usage
 
 To view these forms in action:
 
