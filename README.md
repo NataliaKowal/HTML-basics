@@ -1,6 +1,3 @@
-# Overview
-
-This repository contains two HTML form examples. The first is a checkout form designed for e-commerce websites, allowing customers to select payment and shipping options and indicate if their purchase is a gift. The second is a basic form that demonstrates various input types and the importance of the name attribute for form elements.
 
 ## Checkout Form
 
@@ -27,3 +24,19 @@ To view these forms in action:
 Clone this repository to your local machine.
 Open the HTML files in your preferred web browser.
 Interact with the forms as a user would on a live website.
+
+## Pigeon racing
+The pigeon-racing.html document provides an informative overview of the sport of pigeon racing. It details how homing pigeons are trained, the distances they travel, and how their speed is measured.
+
+Highlights include:
+An introduction to pigeon racing and the Racing Homer breed.
+The mechanics of timing and measuring race results.
+Regional insights into pigeon racing practices in The Americas and Europe, including specific information about Brazil, the United States, Belgium, the UK, and Ireland
+
+### Usage
+
+To explore these documents:
+Clone this repository to your local machine using: git **clone** https://github.com/yourusername/html-forms-pigeon-racing.git
+
+Open the HTML files in a web browser to view their content.
+Interact with the form elements or read through the pigeon racing information as desired.
