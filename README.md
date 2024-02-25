@@ -40,3 +40,9 @@ Clone this repository to your local machine using: git **clone** https://github.
 
 Open the HTML files in a web browser to view their content.
 Interact with the form elements or read through the pigeon racing information as desired.
+
+##Tables
+The tables-exercise.html document is a hands-on exercise to create HTML tables:
+
+It provides a structure to display characters' names and ages.
+Includes table headers, body, and footer to calculate averages.
