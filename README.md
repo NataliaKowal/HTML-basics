@@ -1,3 +1,6 @@
+# Overview
+This repository is a comprehensive collection of HTML documents and CSS stylesheets designed for various purposes including e-commerce forms, informational pages, exercises in HTML table creation, pet care instructions, contact information, and managing images and links.
+
 ## Checkout Form
 
 The checkout form (checkout.html) includes:
@@ -56,3 +59,25 @@ Detailed care instructions for a dog named Grizzly and a goldfish named Princess
 Specific feeding guidelines for Grizzly and a list of acceptable treats.
 Step-by-step tank cleaning instructions for Princess Popcorn.
 
+## Contact 
+
+A simple HTML page contact.html humorously stating:
+
+A message discouraging sharing contact information with strangers.
+A link to navigate back to the homepage.
+
+## Home (Images and Links)
+
+An HTML document that includes:
+
+Unordered lists of links to external sites and internal anchors.
+Images of pets with appropriate alt attributes for accessibility.
+Extensive use of placeholder text to demonstrate text formatting.
+
+## Stylesheet
+
+The accompanying CSS styles.css sets up:
+
+Styling for tables including borders, padding, fonts, and colors.
+Table behavior such as collapsing borders and alternating row colors.
+Styling for images, including width adjustments.
