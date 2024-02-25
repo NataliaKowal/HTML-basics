@@ -1,4 +1,3 @@
-
 ## Checkout Form
 
 The checkout form (checkout.html) includes:
@@ -26,6 +25,7 @@ Open the HTML files in your preferred web browser.
 Interact with the forms as a user would on a live website.
 
 ## Pigeon racing
+
 The pigeon-racing.html document provides an informative overview of the sport of pigeon racing. It details how homing pigeons are trained, the distances they travel, and how their speed is measured.
 
 Highlights include:
@@ -41,8 +41,18 @@ Clone this repository to your local machine using: git **clone** https://github.
 Open the HTML files in a web browser to view their content.
 Interact with the form elements or read through the pigeon racing information as desired.
 
-##Tables
+## Tables
+
 The tables-exercise.html document is a hands-on exercise to create HTML tables:
 
 It provides a structure to display characters' names and ages.
 Includes table headers, body, and footer to calculate averages.
+
+## Text Elements
+
+The newly added document provides:
+
+Detailed care instructions for a dog named Grizzly and a goldfish named Princess Popcorn.
+Specific feeding guidelines for Grizzly and a list of acceptable treats.
+Step-by-step tank cleaning instructions for Princess Popcorn.
+
